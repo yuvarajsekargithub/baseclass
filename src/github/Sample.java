@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 public class Sample {
 	
 	@Test
-	private void emp() {
-	System.out.println("yuvaraj");
+	private void yuva() {
+	System.out.println("saiyuva");
 }
 	@Test
 	private void empId() {
